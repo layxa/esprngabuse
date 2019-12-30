@@ -34,13 +34,13 @@ Si eres un/a Shiny Hunter, y no juegas al competitivo de Pokémon, o sólamente 
 
 1. Entras a VS desde el menú de inicio, y seleccionas "Combatir"
 2. Selecciona combate individual/doble (según lo que más te convenga) y crea un equipo o selecciona uno de préstamo.
-3. Al encontrar contrincante, selecciona tres Pokémon aleatorios y en el primer turno de combate, **retírate**
+3. Al encontrar contrincante, selecciona tres/cuatro Pokémon aleatorios y en el primer turno de combate, **retírate**
 4. Pulsa B repetidamente hasta que abandones el menú VS
 5. ¡Felicidades! Ahora puedes pasar de frame sin necesidad de estar dentro de una raid.
 
 Para pasar de frame, simplemente visita una raid, recoge los vatios, cambia la fecha **SIN** buscar jugadores **ni salir de internet**, si sales o buscas, harás que el exploit deje de funcionar.
 
-##Llevando a cabo el método de los 3 días
+## Llevando a cabo el método de los 3 días
 
 Una vez nos situamos en el nido que queremos explotar (por ejemplo, el Den 97, que pertenece al Gigamax Charizard), y hemos conseguido mediante el exploit del SoftReset (explicación de este exploit más adelante) nuestra raid dorada, dejaremos que el juego guarde la partida y comenzaremos la búsqueda.
 
