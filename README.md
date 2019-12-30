@@ -46,7 +46,7 @@ Una vez nos situamos en el nido que queremos explotar (por ejemplo, el Den 97, q
 
 1. Avanzaremos 3 frames hacia delante. (Por ejemplo, si comenzáramos en 1 de Abril, avanzaríamos hasta el 4 de Abril).
 2. Una vez en el día 4, comprobaremos si la raid es shiny. **SI NO ES SHINY**, continúa leyendo. **SI ES SHINY**, ve al paso 1b.
-3. Cierra el juego nada más empezar la raid shiny y vuelve a iniciarlo. Una vez en el juego comprobarás que vuelves a tener la raid del día 1 de Abril (puesto que aunque los frames hayan avanzado, no hemos guardado partida en ningún momento)
+3. Cierra el juego nada más empezar la raid no shiny y vuelve a iniciarlo. Una vez en el juego comprobarás que vuelves a tener la raid del día 1 de Abril (puesto que aunque los frames hayan avanzado, no hemos guardado partida en ningún momento)
 4. Avanza 1 frame (5 de Abril) y guarda la partida.
 5. Repite desde el paso 1 hasta obtener un shiny.
 
