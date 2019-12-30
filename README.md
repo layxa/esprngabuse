@@ -51,8 +51,11 @@ Una vez nos situamos en el nido que queremos explotar (por ejemplo, el Den 97, q
 5. Repite desde el paso 1 hasta obtener un shiny.
 
 1b. ¿Tienes un shiny? Bien, cierra el juego al entrar en la raid y vuelve a iniciarlo.
+
 2b. Ahora volverás a estar 3 días antes del shiny, y si los avanzas, obtendrás un shiny de distinta especie al anterior.
+
 3b. Repite todas las veces necesarias
+
 
 Cabe recalcar que el host de la raid nunca obtiene el Pokémon, a no ser que haya una persona capturándole siempre los suyos en las raids. Si el host lo captura y guarda la partida (o tiene el autoguardado y sale de la raid o intercambia con alguien) se perderá la raid shiny.
 
