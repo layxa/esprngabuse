@@ -59,7 +59,7 @@ Una vez nos situamos en el nido que queremos explotar (por ejemplo, el Den 97, q
 
 Cabe recalcar que el host de la raid nunca obtiene el Pokémon, a no ser que haya una persona capturándole siempre los suyos en las raids. Si el host lo captura y guarda la partida (o tiene el autoguardado y sale de la raid o intercambia con alguien) se perderá la raid shiny.
 
-## Consejos / FAQ una vez obtienes una raid shiny
+## Consejos y FAQ una vez obtienes una raid shiny
 
 1. Si es una raid Gigamax, sigue haciendo incursiones hasta que te salga el pokémon deseado, merecen mucho más la pena que quedarse con Pokémon normales que puedes obtener mediante otros métodos como la crianza.
 2. Desactiva el autoguardado si no lo tenías desactivado ya.
