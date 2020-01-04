@@ -33,7 +33,7 @@ Ahora bien, hay una manera bastante más reciente y rápida de pasar los días, 
 Si eres un/a Shiny Hunter, y no juegas al competitivo de Pokémon, o sólamente te centras en uno de los dos tipos de combate (Combates individuales/Combates Dobles), hay una manera mucho más rápida de pasar los frames en el juego, y es siguiendo estos pasos:
 
 1. Entras a VS desde el menú de inicio, y seleccionas "Combatir"
-2. Selecciona combate individual/doble (según lo que más te convenga) y crea un equipo o selecciona uno de préstamo.
+2. Selecciona combate amistoso/individual/doble (según lo que más te convenga) y crea un equipo o selecciona uno de préstamo.
 3. Al encontrar contrincante, selecciona tres/cuatro Pokémon aleatorios y en el primer turno de combate, **retírate**
 4. Pulsa B repetidamente hasta que abandones el menú VS
 5. ¡Felicidades! Ahora puedes pasar de frame sin necesidad de estar dentro de una raid.
