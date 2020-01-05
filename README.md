@@ -1,3 +1,5 @@
+Nueva información: **Exploit del modo avión para salir de las raids**: añadida 05/01/2020
+
 # **Bienvenidos a la MEGAGUÍA del RNG Abuse y varios exploits de Pokémon SW/SH en Español.**
 
 Esta guía ha sido desarrollada por Lay (@Lay_plz) para uso y disfrute de toda la comunidad de Pokémon de habla hispana. Si se plantean dudas ya sea por twitter a la cuenta mencionada arriba y/o en el discord (discord.gg/QFRSmXk) se intentarán paliar a la mayor brevedad, ¡gracias por vuestra paciencia!
@@ -33,10 +35,12 @@ Ahora bien, hay una manera bastante más reciente y rápida de pasar los días, 
 Si eres un/a Shiny Hunter, y no juegas al competitivo de Pokémon, o sólamente te centras en uno de los dos tipos de combate (Combates individuales/Combates Dobles), hay una manera mucho más rápida de pasar los frames en el juego, y es siguiendo estos pasos:
 
 1. Entras a VS desde el menú de inicio, y seleccionas "Combatir"
-2. Selecciona combate amistoso/individual/doble (según lo que más te convenga) y crea un equipo o selecciona uno de préstamo.
+2. Selecciona combate individual/doble (según lo que más te convenga) y crea un equipo o selecciona uno de préstamo.
 3. Al encontrar contrincante, selecciona tres/cuatro Pokémon aleatorios y en el primer turno de combate, **retírate**
 4. Pulsa B repetidamente hasta que abandones el menú VS
 5. ¡Felicidades! Ahora puedes pasar de frame sin necesidad de estar dentro de una raid.
+
+También se ha descubierto que se puede realizar este exploit en los combates amistosos, poniendo el modo avión al estar en la pantalla de las tarjetas de entrenador (y volviéndolo a quitar al instante) pero puede fallar en comparación a los combates clasificatorios.
 
 Para pasar de frame, simplemente visita una raid, recoge los vatios, cambia la fecha **SIN** buscar jugadores **ni salir de internet**, si sales o buscas, harás que el exploit deje de funcionar.
 
@@ -63,8 +67,8 @@ Cabe recalcar que el host de la raid nunca obtiene el Pokémon, a no ser que hay
 
 1. Si es una raid Gigamax, sigue haciendo incursiones hasta que te salga el pokémon deseado, merecen mucho más la pena que quedarse con Pokémon normales que puedes obtener mediante otros métodos como la crianza.
 2. Desactiva el autoguardado si no lo tenías desactivado ya.
-3. Cuando invites a otras personas a las incursiones, no las abandones hasta que hayáis derrotado al Pokémon, hay posibilidades de que la raid se congele y no deje terminarla a ninguno de los participantes, o tarde mucho en reaccionar.
-4. Una vez consigas el Gigamax, o, en su defecto, el Pokémon más complicado del Den, puedes decidir si guardar partida (recomiendo que sí lo hagas, son muy puñeteros a la hora de salir) y quedarte con el Gigamax Shiny fixeado, para hacerlo cuantas veces quieras/necesites.
+3. Cuando invites a otras personas a las incursiones, abandónalas tras hacer el primer turno, de manera que tu personaje se transforma en un bot en la raid y tú puedes preparar la siguiente raid.
+4. Una vez consigas el Gigamax, o, en su defecto, el Pokémon más complicado del Den, puedes decidir si guardar partida (recomiendo que sí lo hagas, son muy puñeteros a la hora de salir) y quedarte con el Gigamax Shiny fixeado, para hacerlo cuantas veces quieras/necesites. **EDIT: Nuevo exploit al respecto de este punto, explicado en el último apartado.
 5. Cuando decidas finalizar la raid y capturar al Pokémon, puedes usar cualquier Pokéball (incluída la EnteBall, con ratio negativo). Al ser el host de la raid (**raids que no son de evento**) tienes 100% de probabilidad de capturar.
 6. No, no te van a banear por usar el método de los tres días, los abusos de RNG son totalmente legales a ojos de Game Freak.
 
@@ -72,6 +76,19 @@ Cabe recalcar que el host de la raid nunca obtiene el Pokémon, a no ser que hay
 
 No creo que sea muy necesario explicar este exploit, puesto que lo sabe todo aquel que ha jugado a Pokémon, pero básicamente al usar un Trozo Deseo, el tiempo que tarda el cuadro de diálogo en decirte que está guardando la partida puedes ver si la raid va a ser roja o morada, y por tanto darle al botón Home y reiniciar el juego, de modo que nunca gastarás el Trozo Deseo hasta que tú quieras.
 
-Muchas gracias por haber atendido y si has llegado hasta aquí, ¡tienes todos mis respetos! Recuerda que para dudas o cualquier otra cosa, puedes contactar conmigo a través de los canales facilitados al principio de la Guía, Twitter y Discord. Sin más, un saludo.
+## El exploit del modo avión
 
+Si bien puedes guardar al conseguir el pokémon más complicado del nido y repetir hasta que te canses, hay nidos en los que el segundo pokémon más complicado a veces tarda más en salir que los propios jefes de nido (como los gigamax). Por tanto, al guardar en el jefe de nido perdíamos la oportunidad de conseguir absolutamente todos los pokémon del nido shiny. Ahora esto ha cambiado.
+
+Este método es algo más complicado de hacer, puesto que hay que ser rápido, y cualquier missclick o distracción puede hacer que pierdas el gigamax y lo tengas que volver a buscar. Pero como estamos aquí para informar, encantada os lo explico:
+
+Una vez consigues el gigamax, **NO GUARDES**, invita a jugadores, para explotar la raid, y si puedes, coméntales que en el primer turno esperen a que tú hagas una acción antes de hacer ellos (si eres la última persona en atacar no te dará casi tiempo a hacer este método y perderás el pokémon/giga casi seguro.
+
+**SWITCH EN MODO PORTATIL / SOBREMESA CON WIFI** Al hacer tu acción, mientras el cuadro de diálogo te indica "Conectando, por favor espera", mantén el botón "Home" pulsado y pon la consola en modo avión (Si está en el dock, quítala del dock o no podrás poner el Modo Avión). Al momento recibirás una notificación de que has perdido la conexión y el juego te echará de la raid.
+
+**SWITCH EN MODO SOBREMESA CONECTADA POR CABLE** Al hacer tu acción, mientras el cuadro de diálogo te indica "Conectando, por favor espera", quita la consola del dock y recibirás al instante una notificación de que has perdido la conexión. El juego te echará de la raid y la volverás a tener preparada para volver a hacerla.
+
+Este método, además de no obligarte a guardar y lockear al shiny más complicado, agiliza bastante el reseteo de las raids a los host.
+
+Si has llegado hasta aquí, has terminado lo que hay hasta este momento en la guía. Todas las dudas las puedes consultar por las vías especificadas al principio de la guía, **Twitter/Discord**. Gracias por el apoyo y:
 ### HAPPY SHINY HUNTING! <3
