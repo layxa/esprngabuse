@@ -82,7 +82,7 @@ Si bien puedes guardar al conseguir el pokémon más complicado del nido y repet
 
 Este método es algo más complicado de hacer, puesto que hay que ser rápido, y cualquier missclick o distracción puede hacer que pierdas el gigamax y lo tengas que volver a buscar. Pero como estamos aquí para informar, encantada os lo explico:
 
-Una vez consigues el gigamax, **NO GUARDES**, invita a jugadores, para explotar la raid, y si puedes, coméntales que en el primer turno esperen a que tú hagas una acción antes de hacer ellos (si eres la última persona en atacar no te dará casi tiempo a hacer este método y perderás el pokémon/giga casi seguro.
+Una vez consigues el gigamax, **NO GUARDES**, invita a jugadores, para explotar la raid, y si puedes, coméntales que en el primer turno esperen a que tú hagas una acción antes de hacer ellos (si eres la última persona en atacar no te dará casi tiempo a hacer este método y perderás el pokémon/giga casi seguro).
 
 **SWITCH EN MODO PORTATIL / SOBREMESA CON WIFI** Al hacer tu acción, mientras el cuadro de diálogo te indica "Conectando, por favor espera", mantén el botón "Home" pulsado y pon la consola en modo avión (Si está en el dock, quítala del dock o no podrás poner el Modo Avión). Al momento recibirás una notificación de que has perdido la conexión y el juego te echará de la raid.
 
