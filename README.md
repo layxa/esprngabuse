@@ -2,7 +2,7 @@ Nueva información: **Exploit del modo avión para salir de las raids**: añadid
 
 # **Bienvenidos a la MEGAGUÍA del RNG Abuse y varios exploits de Pokémon SW/SH en Español.**
 
-Esta guía ha sido desarrollada por Lay (@Layshiba) para uso y disfrute de toda la comunidad de Pokémon de habla hispana. Si se plantean dudas ya sea por twitter a la cuenta mencionada arriba y/o en el discord (discord.gg/QFRSmXk) se intentarán paliar a la mayor brevedad, ¡gracias por vuestra paciencia!
+Esta guía ha sido desarrollada por Lay (@Layxent) para uso y disfrute de toda la comunidad de Pokémon de habla hispana. Si se plantean dudas ya sea por twitter a la cuenta mencionada arriba y/o en el discord (discord.gg/QFRSmXk) se intentarán paliar a la mayor brevedad, ¡gracias por vuestra paciencia!
 
 En esta guía os expondré de la manera más breve y concisa posible los pasos a seguir en el proceso de conseguir una Raid shiny de Pokémon Espada y Escudo explotable, es decir, una raid la cual, cada vez que se resetea, tiene un pokémon shiny distinto. De esta manera se pueden conseguir shiny **todos** y cada uno de los pokémon que haya en el den, **incluídos los Pokémon G-Max** si los hubiese. Este es un proceso tedioso y largo, pero muy asequible. 
 
